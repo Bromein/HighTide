@@ -8,6 +8,7 @@ import ArtPage from "./pages/ArtPage/ArtPage";
 import AboutPage from "./pages/AboutPage/AboutPage";
 import BookingPage from "./pages/BookingPage/BookingPage";
 import { theme, GlobalStyle, GridWrap } from "./theme/theme";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -15,12 +16,14 @@ function App() {
       <GridWrap>
         <GlobalStyle />
         <NavBar />
+
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route exact path="/about" component={AboutPage} />
           <Route exact path="/art" component={ArtPage} />
           <Route exact path="/book" component={BookingPage} />
         </Switch>
+        <Footer />
       </GridWrap>
     </ThemeProvider>
   );

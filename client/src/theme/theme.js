@@ -13,19 +13,27 @@ export const theme = {
 };
 export const GridWrap = styled.div`
   display: grid;
-  height: 100vh;
-  width: 100vw;
+  position: relative;
+  height: 100%;
+  /* width: 100vw; */
+  font-size: 1.4rem;
   grid-template-columns: 10vw 6fr 10vw;
-  grid-template-rows: 10vh;
+  grid-template-rows: 10vh 1fr 10vh;
   background-size: cover;
   background-color: ${props => props.theme.backgroundColor};
   color: ${props => props.theme.textColor};
   position: relative;
+  @media (max-width: 730px) {
+    grid-template-rows: 15vh;
+    font-size: 1rem;
+  }
 
   div::after {
     width: 100%;
     height: 100%;
+    overflow-x: hidden;
     background-image: url(${backdrop});
+    /* background-attachment: fixed; */
     content: "";
     opacity: 0.5;
     top: 0;
@@ -34,7 +42,7 @@ export const GridWrap = styled.div`
     right: 0;
     position: absolute;
     z-index: -2;
-    background-size: cover;
+    background-size: fill;
   }
   @media (max-width: 800px) {
     grid-template-columns: 1fr;
@@ -67,6 +75,8 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-size: 1.5rem;
     line-height: 1.5;
+
+
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -75,6 +85,7 @@ export const GlobalStyle = createGlobalStyle`
 
   ol, ul {
     list-style: none;
+
   }
   a {
     text-decoration: none;

@@ -1,5 +1,6 @@
 import React from "react";
 import { Nav } from "./NavBar.styles";
+import { Wrap } from "../../sharedStyles/sharedStyles";
 import { Link } from "react-router-dom";
 import Logo from "../../assets/icons/logo.png";
 const NavBar = () => {

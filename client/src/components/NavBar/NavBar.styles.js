@@ -2,41 +2,50 @@ import styled from "styled-components";
 
 export const Nav = styled.nav`
   grid-column: 1 / -1;
+  max-width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  /* background: ${props => props.theme.lightGray}; */
+  background: #333;
 
   img {
-    width: 200px;
-
+    padding: 2rem;
+    width: 20rem;
+    @media (max-width: 730px) {
+      width: 15rem;
+      justify-self: center;
+      align-self: center;
+    }
   }
 
   ul {
     display: flex;
-    justify-content: space-around;
-    /* background: ${props => props.theme.accentRed}; */
+    /* width: 25%; */
+    justify-content: space-between;
+
     li {
       font-size: 2rem;
-      padding: 1rem;
-      transition: all .2s ease-in-out;
+      margin: 0.1rem;
+      transition: all 0.2s ease-in-out;
+      @media (max-width: 730px) {
+        padding: 0;
+      }
       &:hover {
-        transform: scale(1.15);
+        background-color: ${props => props.theme.accentRed};
+        border-radius: 4px;
       }
 
-
       a {
-        transition: all .2s ease-in-out;
-
+        transition: all 0.2s ease-in-out;
+        padding: 1rem;
         &:hover {
-          color: ${props => props.theme.accentRed};
-          /* background: red; */
-          /* transform: scale(1.25); */
         }
       }
     }
   }
-
-
-
+  @media (max-width: 730px) {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
 `;
