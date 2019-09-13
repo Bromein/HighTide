@@ -7,13 +7,13 @@ import HomePage from "./pages/HomePage/HomePage";
 import ArtPage from "./pages/ArtPage/ArtPage";
 import AboutPage from "./pages/AboutPage/AboutPage";
 import BookingPage from "./pages/BookingPage/BookingPage";
-import { theme, GlobalStyle, GridWrap } from "./theme/theme";
+import { theme, GlobalStyle, Container } from "./theme/theme";
 import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <GridWrap>
+      <Container>
         <GlobalStyle />
         <NavBar />
 
@@ -24,7 +24,7 @@ function App() {
           <Route exact path="/book" component={BookingPage} />
         </Switch>
         <Footer />
-      </GridWrap>
+      </Container>
     </ThemeProvider>
   );
 }

@@ -1,54 +1,83 @@
 import styled from "styled-components";
 
 export const TattoArtistCard = styled.div`
-  display: grid;
-  grid-template-rows: 0.5fr 1fr 0.1fr;
-  grid-template-columns: 15rem 1fr 15rem;
-  grid-column-gap: 2rem;
   margin: 5rem;
-  align-items: center;
-  /* justify-content: center; */
-  background: #333;
-  border-radius: 4px;
-  padding: 1rem;
+  padding: 2rem;
+  grid-column: span 1;
+  justify-self: center;
   position: relative;
+  background: ${props => props.theme.accentBlueFaded};
+  border-radius: 0.4rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 0.5fr 1fr;
+  /* justify-items: center; */
+  align-items: center;
+  text-align: center;
+  /* color: red; */
+  box-shadow: 0 0.5px 0 0 #ffffff inset, 0 1px 2px 0 #b3b3b3;
+  transition: all 0.2s ease;
 
-  @media (max-width: 600px) {
-    grid-template-columns: 1fr;
+  &:hover {
+  }
+
+  @media (max-width: 774px) {
+    margin: 5rem 1rem;
+  }
+
+  @media (max-width: 1200) {
+    grid-column: 1 / -1;
   }
 
   section {
-    grid-column: 2;
-    grid-row: 1;
+    margin: 1rem;
     .name {
-      font-family: Catamaran;
-      font-size: 3rem;
+      font-size: 2rem;
     }
     .phone {
+      font-size: 1.6rem;
     }
   }
-
-  .phone {
-    grid-row: 1;
+  .social {
+    svg {
+    }
   }
 
   img {
-    max-width: 15rem;
-    border-radius: 0.4rem;
-    grid-column: 1 / 2;
-    grid-row: 1 / -1;
+    grid-column: 1 / -1;
+    grid-row: 1;
+    justify-self: center;
+    width: 15rem;
+    border: 0.2rem solid white;
+    margin-top: 1rem;
+    height: 15rem;
+    border-radius: 100%;
+    /* border: 2px solid white; */
+    animation: float 2s infinite;
   }
 
-  .about {
-    grid-row: 2;
+  @keyframes float {
+    0% {
+      box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+      transform: translateY(0px);
+    }
+    50% {
+      box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
+      transform: translateY(-10px);
+    }
+    100% {
+      box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+      transform: translateY(0px);
+    }
   }
 
   .booking-options {
+    font-family: Catamaran;
     position: absolute;
     top: -2rem;
     padding: 1rem;
-    background: ${props => props.theme.accentRed};
-    border-radius: 4px;
+    background: ${props => props.theme.accentOrange};
+
     right: 3rem;
     transition: all 0.2s ease-in-out;
 
@@ -58,7 +87,7 @@ export const TattoArtistCard = styled.div`
     }
 
     &:hover {
-      transform: scale(1.2);
+      transform: scale(1.1);
     }
     span {
       cursor: pointer;
@@ -66,3 +95,17 @@ export const TattoArtistCard = styled.div`
     }
   }
 `;
+
+// Neil Powers
+// https://www.instagram.com/nerdneil/
+// @nerdneil
+
+// Chris Russel
+
+// Cory Connell
+// https://www.instagram.com/coryconnellart/
+// @coryconnellart
+
+// Fallon
+// https://www.instagram.com/foxtattooer/
+// @foxtattoer

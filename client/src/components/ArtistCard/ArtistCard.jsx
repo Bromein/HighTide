@@ -2,21 +2,32 @@ import React from "react";
 import Russell from "../../assets/icons/Russell.jpg";
 import { TattoArtistCard } from "./ArtistCard.styles";
 import { artists } from "./tempArtist";
-
-const ArtistCard = () => {
+import { ReactComponent as Insta } from "../../assets/icons/instagram.svg";
+const ArtistCard = ({ name, about, phone, instagramUrl, handle, photo }) => {
   return (
     <TattoArtistCard>
       <section>
-        <p className="name">Russell</p>
-        <p className="phone">(727) 772-7772</p>
+        <p className="name">{name}</p>
+        <p className="phone">{phone}</p>
       </section>
-      <img src={Russell} alt="" />
-      <p className="about">
-        A fun loving lad who enjoys tattooing for a living @hightidetattoofl
-      </p>
-      <p className="booking-options">
-        <span>Book Me</span>
-      </p>
+
+      <img src={photo} alt="" />
+
+      <section>
+        <p className="about">
+          {"A fun loving lad who enjoys tattooing for a living"}
+        </p>
+        <p className="booking-options">
+          <span>Book Me</span>
+        </p>
+      </section>
+
+      <section className="social">
+        <a href={instagramUrl}>
+          <Insta />
+          {handle}
+        </a>
+      </section>
     </TattoArtistCard>
   );
 };
