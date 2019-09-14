@@ -15,7 +15,8 @@ export const theme = {
   accentBlueFaded: "rgba(46, 196, 182, 0.1)",
   accentOrange: "#FF9F1C",
   lightGray: "#7C7A7A",
-  darkGray: "#494949"
+  darkGray: "#494949",
+  animateFadeIn: "fadeIn 2s ease-in-out 5s"
 };
 export const Container = styled.main`
   position: relative;
@@ -31,11 +32,11 @@ export const Container = styled.main`
   background: ${props => props.theme.backgroundColor};
 
   @media (max-width: 730px) {
-    font-size: 1rem;
+    font-size: 1.2rem;
     grid-template-rows: 15vh 1fr 5vh;
   }
   @media (max-width: 800px) {
-    grid-template-columns: 10rem 1fr 10rem;
+    grid-template-columns: 1fr ;
   }
 
   /* div::after {
@@ -85,6 +86,18 @@ export const GlobalStyle = createGlobalStyle`
     src: url(${Amiri}) format('truetype');
     font-weight: normal;
     font-style: normal;
+  }
+
+    @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1;
+    }
   }
 
     * {

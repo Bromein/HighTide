@@ -1,23 +1,23 @@
 import React, { useEffect, useState } from "react";
-import { Wrap } from "../../sharedStyles/sharedStyles";
+import { ArtWrap, Images } from "./ArtPage.styles";
+import { artArray } from "./ScrapedArt";
+import LazyLoad from "react-lazyload";
 
 const ArtPage = () => {
-  const [posts, setPosts] = useState([]);
+  // Why does Instagram hate developers so much? Sorry about the local array.
 
-  useEffect(() => {
-    const fetchPosts = async () => {
-      const posts = await fetch(
-        "https://api.instagram.com/oembed?url=https://www.instagram.com/hightidetattoofl/"
-      );
-      const data = await posts.json();
-      console.log(data);
-    };
-    fetchPosts();
-  });
   return (
-    <Wrap>
-      <h1>Art Page</h1>
-    </Wrap>
+    <ArtWrap>
+      <Images>
+        {artArray.map(art => (
+          <LazyLoad key={art.url} height={200}>
+            <div className="contain">
+              <img src={art.imageUrl} alt="artwork" />
+            </div>
+          </LazyLoad>
+        ))}
+      </Images>
+    </ArtWrap>
   );
 };
 

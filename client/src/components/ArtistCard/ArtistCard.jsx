@@ -1,14 +1,23 @@
 import React from "react";
-import Russell from "../../assets/icons/Russell.jpg";
 import { TattoArtistCard } from "./ArtistCard.styles";
-import { artists } from "./tempArtist";
+
 import { ReactComponent as Insta } from "../../assets/icons/instagram.svg";
-const ArtistCard = ({ name, about, phone, instagramUrl, handle, photo }) => {
+import { ReactComponent as Mail } from "../../assets/icons/mail.svg";
+import { ReactComponent as Phone } from "../../assets/icons/phone.svg";
+
+const ArtistCard = ({
+  name,
+  about,
+  phone,
+  instagramUrl,
+  handle,
+  photo,
+  email
+}) => {
   return (
     <TattoArtistCard>
       <section>
         <p className="name">{name}</p>
-        <p className="phone">{phone}</p>
       </section>
 
       <img src={photo} alt="" />
@@ -22,11 +31,19 @@ const ArtistCard = ({ name, about, phone, instagramUrl, handle, photo }) => {
         </p>
       </section>
 
-      <section className="social">
-        <a href={instagramUrl}>
-          <Insta />
-          {handle}
-        </a>
+      <section className="connect">
+        <span className="connect-section">
+          <Phone className="icon" />
+          <a href={`tel:${phone}`}>{phone}</a>
+        </span>
+        <span className="connect-section">
+          <Mail className="icon" />
+          <a href={`mailto:${email}`}>{email}</a>
+        </span>
+        <span className="connect-section">
+          <Insta className="icon" />
+          <a href={instagramUrl}>{handle}</a>
+        </span>
       </section>
     </TattoArtistCard>
   );

@@ -1,26 +1,48 @@
 import styled from "styled-components";
 
 export const TattoArtistCard = styled.div`
+  justify-self: center;
   margin: 5rem;
   padding: 2rem;
   grid-column: span 1;
-  justify-self: center;
   position: relative;
   background: ${props => props.theme.accentBlueFaded};
   border-radius: 0.4rem;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 0.5fr 1fr;
-  /* justify-items: center; */
+  grid-template-rows: 1fr 0.5fr 0.5fr 1fr;
   align-items: center;
   text-align: center;
-  /* color: red; */
   box-shadow: 0 0.5px 0 0 #ffffff inset, 0 1px 2px 0 #b3b3b3;
+  opacity: .2;
   transition: all 0.2s ease;
-
   &:hover {
+    opacity: 1;
   }
 
+  @media (max-width: 730px) {
+    opacity: 1;
+  }
+
+  .connect-section {
+    display: flex;
+    /* background: ${props => props.theme.accentBlue}; */
+    font-family: Catamaran;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    a {
+      transition: color .2s ease;
+      &:hover {
+        color: ${props => props.theme.accentBlue}
+      }
+    }
+
+    .icon {
+      margin-right: 0.5rem;
+      justify-self: flex-start;
+    }
+  }
   @media (max-width: 774px) {
     margin: 5rem 1rem;
   }
@@ -33,13 +55,6 @@ export const TattoArtistCard = styled.div`
     margin: 1rem;
     .name {
       font-size: 2rem;
-    }
-    .phone {
-      font-size: 1.6rem;
-    }
-  }
-  .social {
-    svg {
     }
   }
 
@@ -77,7 +92,7 @@ export const TattoArtistCard = styled.div`
     top: -2rem;
     padding: 1rem;
     background: ${props => props.theme.accentOrange};
-
+    border-radius: 4px;
     right: 3rem;
     transition: all 0.2s ease-in-out;
 

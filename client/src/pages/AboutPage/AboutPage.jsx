@@ -1,7 +1,6 @@
 import React from "react";
 import { AboutWrap, About, Artists } from "./AboutPage.styles";
 import ArtistCard from "../../components/ArtistCard/ArtistCard";
-import { ReactComponent as Anchor } from "../../assets/icons/anchor.svg";
 import { artists } from "../../components/ArtistCard/tempArtist";
 const AboutPage = () => {
   return (
@@ -22,9 +21,11 @@ const AboutPage = () => {
       <Artists>
         {artists.map(artist => (
           <ArtistCard
+            key={artist.name}
             name={artist.name}
             about={artist.about}
             phone={artist.phone}
+            email={artist.email}
             instagramUrl={artist.instagramUrl}
             handle={artist.handle}
             photo={artist.photo}
