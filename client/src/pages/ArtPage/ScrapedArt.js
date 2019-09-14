@@ -8,7 +8,8 @@ export const artArray = [
       "Tattoo by @foxtattooer .\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #traditionaltattoo #colortattoo #girlswhotattoo",
     timestamp: "2019-09-14T02:16:41.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B2X97fEnD40",
@@ -19,7 +20,8 @@ export const artArray = [
       "Tattoo by @foxtattooer .\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #traditionaltattoo #colortattoo #girlswhotattoo",
     timestamp: "2019-09-14T02:15:12.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B2XqA2FHGmN",
@@ -30,7 +32,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nPunisher cover designed by @jimlee Thanks for the trust, Austin. #punisher #comic #comicbookart",
     timestamp: "2019-09-13T23:21:11.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B2FwdhwHN8H",
@@ -38,10 +41,11 @@ export const artArray = [
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/3f50004ff90f490b1204aec9d64d134c/5E0B0AF3/t51.2885-15/e35/s1080x1080/68673401_131659258118067_1387808078274203577_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103",
     firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  #saintmichaeltattoo #saintmichael",
+      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
     timestamp: "2019-09-07T00:31:12.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/B2FuK4QHcRY",
@@ -52,7 +56,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\n“Every musicians gotta have a beet!” -Breece -Thank you man! Comment if YOU would get a food related tattoo, and what food? I’m intrigued to hear! #beet #vegetable #vegart",
     timestamp: "2019-09-07T00:11:10.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B2FoX0KnZ5Y",
@@ -63,7 +68,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nWalk-in for Jovanni. #mountain #scene #outdoors #religious #walkin #artwork #hightidetattoo",
     timestamp: "2019-09-06T23:20:30.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B2DGHamHvij",
@@ -74,7 +80,8 @@ export const artArray = [
       "#Repost @foxtattooer with @get_repost\n・・・\nMade this adorable titty bat for @amberannbritt thank you so much for sitting like a rock!! 🖤🖤🦇🦇",
     timestamp: "2019-09-05T23:42:41.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B2AoAyinunv",
@@ -85,7 +92,8 @@ export const artArray = [
       "#Repost @foxtattooer with @get_repost\n・・・\nMade a little hip rose for @amberannbritt",
     timestamp: "2019-09-05T00:41:10.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B2An3suHdG4",
@@ -96,7 +104,8 @@ export const artArray = [
       "#Repost @foxtattooer with @get_repost\n・・・\nSuper cool three eyed panther! Based off client reference",
     timestamp: "2019-09-05T00:39:55.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B2AnvctHAB1",
@@ -107,7 +116,8 @@ export const artArray = [
       "#Repost @foxtattooer with @get_repost #dunedinflorida #hightidetattoo #hightidetattoosdunedin #tattoo #florida #floridatattooartist",
     timestamp: "2019-09-05T00:38:48.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B13vUYfHTrU",
@@ -118,7 +128,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nBeach scenes for days. #floridatattoo #beachscene #palm",
     timestamp: "2019-09-01T13:51:50.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B10-MSBHuEa",
@@ -129,7 +140,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nBull for Dylan.",
     timestamp: "2019-08-31T12:04:05.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B1ztfbSHHDz",
@@ -140,7 +152,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nOne from the other week. Thanks for looking! #japanese #mask #tattoosleeve #hightidetattoo #dunedin",
     timestamp: "2019-08-31T00:18:54.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B1w4MlznEc2",
@@ -150,7 +163,8 @@ export const artArray = [
     firstComment: "#Repost @foxtattooer with @get_repost",
     timestamp: "2019-08-29T21:54:44.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B1pjaojHvLs",
@@ -161,7 +175,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\n#palm #tree #blackandgreytattoo #hightide #dunedin @coryconnellart",
     timestamp: "2019-08-27T01:38:28.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B1hvOwYn_-s",
@@ -172,7 +187,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nMore work on Gabby’s arm. Thanks for looking! #roses #black #grey #dots",
     timestamp: "2019-08-24T00:47:47.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B1cDlEBngpw",
@@ -183,7 +199,8 @@ export const artArray = [
       "#Repost @foxtattooer with @get_repost\n・・・\nLittle snake in progress 🐍",
     timestamp: "2019-08-21T19:50:09.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B1WWNlWn-sz",
@@ -194,7 +211,8 @@ export const artArray = [
       '#Repost @russelltattoo727 with @get_repost\n・・・\n"Sailllinggg it takes me awayyyy" .... tattoo I did awhile back #hightidetattoo #dunedin #dunedinfl #tattooshopflorida #floridatattooartist #captain #florida #chrisrussell #pipe #captaintattoo @russelltattoo727',
     timestamp: "2019-08-19T14:37:31.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/B1PtBlGH2IK",
@@ -205,7 +223,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nLion for Melissa #hightidetattoodunedin",
     timestamp: "2019-08-17T00:42:10.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B1AT2NOnie0",
@@ -216,7 +235,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nWho here likes the black and grey/color mixed tattoos? Because I’ve been digging them lately. Walk-in from earlier. #tattoo_skinart #skinart #colormix #inkaddicts #walkin #lotustattoo #lotusflowertattoo #cleanwork #hightide #tattoostudio",
     timestamp: "2019-08-11T01:13:34.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B0__J7_nENG",
@@ -225,7 +245,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/7aa20414b00dcdf338996bc509b44f4d/5D7F674B/t51.2885-15/e35/67302924_1617483985050348_5338440648888462686_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     timestamp: "2019-08-10T22:16:41.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0_n7gkHh3v",
@@ -234,7 +255,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/119daaa14688484d777f6e88955bb4df/5E03C219/t51.2885-15/e35/s1080x1080/66268013_2166689343441502_2786673933834849766_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110",
     timestamp: "2019-08-10T18:49:48.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0_nfsTHzkx",
@@ -245,7 +267,8 @@ export const artArray = [
       "@coryconnellart .\n.\n.\n.\n\n#florida #floridatattooartist #dunedin #dunedinfl #hightidetattoo #tattooed #floridatattooartist",
     timestamp: "2019-08-10T18:46:00.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B0_nTEsHWxm",
@@ -256,7 +279,8 @@ export const artArray = [
       "@nerdneil .\n.\n.\n.\n\n#florida #floridatattooartist #dunedin #dunedinfl #hightidetattoo #tattooed #floridatattooartist",
     timestamp: "2019-08-10T18:44:17.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/B0_m4EeHNoL",
@@ -267,7 +291,8 @@ export const artArray = [
       "@sugarandspice11 .\n.\n.\n.\n\n#florida #floridatattooartist #dunedin #dunedinfl #hightidetattoo #tattooed #floridatattooartist #girlswithtattoos #tattooedgirls #womentattooers",
     timestamp: "2019-08-10T18:40:36.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B0_mqE3nrIR",
@@ -278,7 +303,8 @@ export const artArray = [
       "@russelltattoo727 working hard on this beautiful Saturday in Dunedin. .\n.\n.\n.\n\n#florida #floridatattooartist #dunedin #dunedinfl #hightidetattoo #tattooed #floridatattooartist",
     timestamp: "2019-08-10T18:38:41.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/B09RWI5nHZE",
@@ -289,7 +315,8 @@ export const artArray = [
       "#Repost @russelltattoo727 with @get_repost\n・・・\nSome #blackandgrey #roses from the other day. #tattoo #tampabay #rosetattoo",
     timestamp: "2019-08-09T20:53:59.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/B09RNtmHsbs",
@@ -300,7 +327,8 @@ export const artArray = [
       "#Repost @russelltattoo727 with @get_repost\n・・・\nAlways wanted to #tattoo a #Lionfish since I had  one for so long this was fun to do! #dunedinflorida",
     timestamp: "2019-08-09T20:52:50.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/B09RBwRHWLn",
@@ -311,7 +339,8 @@ export const artArray = [
       "#Repost @russelltattoo727 with @get_repost\n.\n.\n.\n.\n.\n#floridatattooshop #dunedinfl #dunedin #florida #shopsmall  #shoplocal #downtowndunedin #tattoo #blackandgreytattoo",
     timestamp: "2019-08-09T20:51:12.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/B09MbFqH-JJ",
@@ -322,7 +351,8 @@ export const artArray = [
       "#Repost @russelltattoo727 with @get_repost\n・・・\nRealizing I need to post more and quit spacing out, thanks @prettyfloridagirl_",
     timestamp: "2019-08-09T20:10:58.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/B09MRW4nuS5",
@@ -333,7 +363,8 @@ export const artArray = [
       "#Repost @russelltattoo727 with @get_repost\n・・・\n#Slayer #tattoo on a drinking buddy #metal #dimebagdarrell #heavymetal",
     timestamp: "2019-08-09T20:09:38.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/B04MAvmnjQC",
@@ -344,7 +375,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nFinch and wooden spoon for Michelle #finch #bird #tattoo #art #stipple #blackwork #southstatemfg #kingpintattoosupply #hightidetattoo #dunedin #florida @coryconnellart",
     timestamp: "2019-08-07T21:31:10.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B0wvdjMneiT",
@@ -353,7 +385,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/ecf9e13d1a6dfe3783ce087e6811e55e/5E3C0EE6/t51.2885-15/e35/s1080x1080/66135507_876605559387516_1606749063671655465_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     timestamp: "2019-08-05T00:07:01.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvco1HdW8",
@@ -362,7 +395,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/ae54aeb42b35c71f38a82cb814233131/5DFF5515/t51.2885-15/e35/s1080x1080/66501984_2298260207053494_577581880513566501_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=106",
     timestamp: "2019-08-05T00:06:53.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvbmYHLyq",
@@ -371,7 +405,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/493defd0b809b4517e81544aaa9afa0f/5DFC4C8D/t51.2885-15/e35/s1080x1080/66403077_659205191253517_969636301328565727_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101",
     timestamp: "2019-08-05T00:06:45.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvVtMHHxC",
@@ -380,7 +415,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/1827a274181b19ebec78f25a852bae83/5DF85D5F/t51.2885-15/e35/s1080x1080/65944781_2312971582143809_2649448175312064217_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105",
     timestamp: "2019-08-05T00:05:56.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvUg8nhQE",
@@ -389,7 +425,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/39e8d981271daad6ebd62099f2d0961d/5E076B46/t51.2885-15/e35/s1080x1080/66374389_165485811162384_5722081404619183926_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     timestamp: "2019-08-05T00:05:47.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvTbRn9yQ",
@@ -398,7 +435,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/dc1fd5213ab170665c26ffc172efa6ed/5E16C923/t51.2885-15/e35/s1080x1080/66859867_332808807605268_7403252714118815255_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     timestamp: "2019-08-05T00:05:38.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvSlfHg3y",
@@ -407,7 +445,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/653240b184c1b53398a997e365875497/5E099021/t51.2885-15/e35/s1080x1080/66416303_2173234062966610_3723189620561310745_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110",
     timestamp: "2019-08-05T00:05:31.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvRqWn9d-",
@@ -416,7 +455,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/d81861fcbbc2ef4ac6b7c6ec58ab855d/5DFBC607/t51.2885-15/e35/s1080x1080/66306846_142789053488155_752715453042278659_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=107",
     timestamp: "2019-08-05T00:05:23.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvQklnhdq",
@@ -425,40 +465,37 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/1aa5e4ba3e637c08708270670f859ab2/5E3CC121/t51.2885-15/e35/s1080x1080/67688994_2357273260994520_3775943930323099173_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     timestamp: "2019-08-05T00:05:14.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wvCFzn4cz",
     likesCount: 23,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/a77973f942cc4528aa62ac402fbbcd0a/5E071C5D/t51.2885-15/e35/s1080x1080/67392346_493582221393262_6258850530081916327_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110",
-    firstComment:
-      "Men's. T-shirt @hightidetattoofl stop by this week and get yours!\n.\n.\n.\n.\n.\n.\n#tattooshopdunedinfl #dunedinfl #dunedin #shoplocal #florida #floridasmallbusiness #hightidedunedin",
     timestamp: "2019-08-05T00:03:16.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0wuu3jnLkV",
     likesCount: 39,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/7babf2493057356fc7b70e2d53b757b2/5E0CE63B/t51.2885-15/e35/s1080x1080/65916687_814419528960960_1823968340791525109_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
-    firstComment:
-      "Men's tanks! @hightidetattoofl stop by this week and get yours!\n.\n.\n.\n.\n.\n.\n#tattooshopdunedinfl #dunedinfl #dunedin #shoplocal #florida #floridasmallbusiness #hightidedunedin",
     timestamp: "2019-08-05T00:00:38.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0vzejfHVYs",
     likesCount: 80,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/6c9aa25d803399693ec9d217859e5a7e/5E013B58/t51.2885-15/e35/s1080x1080/66770470_380170306017063_556141555292693396_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103",
-    firstComment:
-      "Girls tanks! @hightidetattoofl stop by this week and get yours!\n.\n.\n.\n.\n.\n.\n#tattooshopdunedinfl #dunedinfl #dunedin #shoplocal #florida #floridasmallbusiness #hightidedunedin",
-    timestamp: "2019-08-04T15:22:52.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/B0mkCWvHOmI",
@@ -469,7 +506,8 @@ export const artArray = [
       "#Repost @foxtattooer with @get_repost\n・・・\nWraps a bit but was super fun",
     timestamp: "2019-08-01T01:14:46.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B0mj2MBHdG7",
@@ -480,7 +518,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nThanks for sitting so well, Lakin! #cat #skull #catskull #feline #stipple #color #boldandbright #southstatemfg #traditionaltattoos #hightidetattoo #dunedin #florida",
     timestamp: "2019-08-01T01:13:07.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B0kAoujHlDA",
@@ -491,7 +530,8 @@ export const artArray = [
       "#Repost @coryconnellart with @get_repost\n・・・\nThanks again, Julia 🙏🏻 #lemons #lemon #art #tattooart #color #boldandbright #southstatemfg #hightidetattoo #dunedin #florida",
     timestamp: "2019-07-31T01:26:58.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B0kAcI-HuLv",
@@ -502,7 +542,8 @@ export const artArray = [
       "#Repost @foxtattooer with @get_repost\n・・・\nRose elbow double coverup action from today! Thanks @streethoodmac  it was super fun",
     timestamp: "2019-07-31T01:25:14.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B0ZLhs2nzcJ",
@@ -513,7 +554,8 @@ export const artArray = [
       "Tattoo by @nerdneil .\n.\n.\n.\n.\n.\n#hightidetattoodunedin #florida #tattoosleeve #dunedinflorida #neilpowers #blackandgraytattoo #underthesea #mermaidtattoos #mermaid #turtletattoo #underwatertattoo #floridalife #sealife #girlswithtattoos #tattoosleeve",
     timestamp: "2019-07-26T20:30:28.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/B0Yo24aHbp-",
@@ -524,7 +566,8 @@ export const artArray = [
       "Tattoo by @nerdneil .\n.\n.\n.\n.\n.\n#hightidetattoodunedin #florida #tattoosleeve #dunedinflorida #neilpowers #colortattoos #deviltattoo  #florida #floridatattooshop #dunedinflorida",
     timestamp: "2019-07-26T15:27:32.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/B0YXunxHRpp",
@@ -535,7 +578,8 @@ export const artArray = [
       "Tattoo by @nerdneil .\n.\n.\n.\n.\n.\n#hightidetattoodunedin #florida #tattoosleeve #dunedinflorida #neilpowers #blackandgraytattoo #underthesea #mermaidtattoos #mermaid #turtletattoo #underwatertattoo #floridalife #sealife #girlswithtattoos #tattoosleeve",
     timestamp: "2019-07-26T12:57:51.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/B0YXUfLHbs1",
@@ -546,7 +590,8 @@ export const artArray = [
       "Tattoo by @foxtattooer .\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #traditionaltattoo #colortattoo #girlswhotattoo",
     timestamp: "2019-07-26T12:54:17.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/B0YXER-HHQj",
@@ -557,7 +602,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #sloth #slothtattoo #colortattoos",
     timestamp: "2019-07-26T12:52:04.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B0YW6DrnEvW",
@@ -568,7 +614,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #crab #colortattoo",
     timestamp: "2019-07-26T12:50:41.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/B0YWD97HvIm",
@@ -579,7 +626,8 @@ export const artArray = [
       "In progress by @nerdneil .\n.\n.\n.\n.\n.\n#hightidetattoodunedin #florida #tattoosleeve #dunedinflorida #neilpowers #blackandgraytattoo #bettlejuicebettlejuicebettlejuice",
     timestamp: "2019-07-26T12:43:18.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/B0E0UO5nirb",
@@ -589,7 +637,8 @@ export const artArray = [
     firstComment: "New shirts are in! Come by and grab one.",
     timestamp: "2019-07-18T22:42:51.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/BzjoO9PnPf9",
@@ -600,7 +649,8 @@ export const artArray = [
       "Tattoo by: @russelltattoo727 \n#tattooshopflorida #southstatemfg  #hightidetattoo #colortattoo #hightidetattoo #dragon #dunedin #dunedinflorida",
     timestamp: "2019-07-06T01:22:20.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/BzfnQ3snl1r",
@@ -611,7 +661,8 @@ export const artArray = [
       "Tattoo by: @foxtattooer #tattooshopflorida #hightidetattoo .\n.\n.\n.\n.\n.\n#tattooshopflorida #hightidetattoo #florida #traditionaltattoos #colortattoos #dunedinflorida #dunedin #kingpintattoosupply #hightidetattoo #southstatemfg",
     timestamp: "2019-07-04T11:56:54.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/BzfiSvjHj9C",
@@ -622,7 +673,8 @@ export const artArray = [
       "Tattoo by: @nerdneil #hightidetattoo .\n.\n.\n.\n.\n.\n#kingpintattoosupply #tattooshopflorida #hightidetattoo #florida #bettlejuicebettlejuicebettlejuice #bettlejuice #blackandgreyink #dunedinflorida #neilpowerstattoos #neilpowers",
     timestamp: "2019-07-04T11:13:27.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bzfh-e3neRu",
@@ -633,7 +685,8 @@ export const artArray = [
       "Tattoo by: @foxtattooer #hightidetattoo .\n.\n.\n.\n.\n.\n#dunedin #hightidetattoo #dunedinflorida #tattooshop #orange #floridaorange #floridatattoo #tattooshopflorida #colortattoos",
     timestamp: "2019-07-04T11:10:41.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/Bzd4itJnOHL",
@@ -642,7 +695,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/9502969406ec970ea88c7b8f9e33a728/5E0268AC/t51.2885-15/e35/s1080x1080/65312738_2476853709034260_2128100869092260995_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     timestamp: "2019-07-03T19:49:24.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/BzY_48en1O3",
@@ -653,7 +707,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #skull #blackandwhite #blackandgreytattoo #stippling",
     timestamp: "2019-07-01T22:17:24.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BzCE5jonuxa",
@@ -664,7 +719,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #skull #blackandwhite #blackandgreytattoo #stippling",
     timestamp: "2019-06-23T00:38:38.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/By-KIHhHfkN",
@@ -675,7 +731,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #skull #blackandwhite #blackandgreytattoo",
     timestamp: "2019-06-21T12:07:21.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/By-KDipHlIj",
@@ -686,7 +743,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-06-21T12:06:44.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/By-JDFcnOOT",
@@ -697,7 +755,8 @@ export const artArray = [
       "New shirts coming soon! Art work by @coryconnellart .\n.\n.\n. .\n.\n@coryconnellart #coryconnell #hightidetattoo #hightidetattoosdunedin #florida #plamtrees #saltlife #tshirt #dunedinfltattooshop #dunedinflorida",
     timestamp: "2019-06-21T11:57:56.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/By-IqC6H_d3",
@@ -708,7 +767,8 @@ export const artArray = [
       "@foxtattooer #tattooshopflorida #hightidetattoo #florida #tattoo #traditionaltattoo #fallontattoos #foxtattooer",
     timestamp: "2019-06-21T11:54:31.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/ByNF0BTHI8N",
@@ -719,7 +779,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply #tattooshopflorida #hightidetattoo #florida #cat #catlover #crazycatlover #cattattoo",
     timestamp: "2019-06-02T10:46:52.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/ByNFr-YnRhA",
@@ -730,7 +791,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-06-02T10:45:46.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/ByJAgMAHqJp",
@@ -741,7 +803,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-31T20:43:31.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/ByJAbnKHBLG",
@@ -752,7 +815,8 @@ export const artArray = [
       "Tattoo by @coryconnellart .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-31T20:42:53.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/ByDl73xndi6",
@@ -763,7 +827,8 @@ export const artArray = [
       "@foxtattooer has some openings this week. Who is down for some new ink! Message us or call today! .\n.\n.\n.\n.\n.\n.\n#tattooshopflorida #hightidetattoosdunedin #hightidetattoosdunedin #dunedinfltattooshop #hightidetattoo #fallontattoos #fallontattooer #flash #traditionaltattoo #florida #ink #tattoos @foxtattooer",
     timestamp: "2019-05-29T18:15:10.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/ByA-XVTHTU0",
@@ -774,7 +839,8 @@ export const artArray = [
       "New shop is up and running! Stop by and check it out and say hi!  New phone ‭(727) 286-6822‬ .\n.\n.\n.\n.\n.\n#dunedin #dunedinflorida #hightidetattoo #hightidetattoosdunedin #dunedinfltattooshop #neilpowers #tattoo #tattooshopflorida",
     timestamp: "2019-05-28T17:50:54.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bx4thRWn392",
@@ -785,7 +851,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-25T12:49:47.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bx4teBgnryQ",
@@ -796,7 +863,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-25T12:49:21.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bx4takSnr-6",
@@ -807,7 +875,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-25T12:48:52.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bxr2E4_HJ7z",
@@ -818,7 +887,8 @@ export const artArray = [
       "Tattoo by @foxtattooer #hightidetattoo #dunedin #dunedinfltattooshop #colortattoos #traditionaltattoos #ladytattooers",
     timestamp: "2019-05-20T12:54:26.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/Bxr13CAHF79",
@@ -829,7 +899,8 @@ export const artArray = [
       "Tattoo by @foxtattooer #hightidetattoo #dunedin #dunedinfltattooshop #colortattoos #traditionaltattoos #ladytattooers",
     timestamp: "2019-05-20T12:52:32.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/Bxr1xZLHkuj",
@@ -840,7 +911,8 @@ export const artArray = [
       "Tattoo by @foxtattooer #hightidetattoo #dunedin #dunedinfltattooshop #colortattoos #traditionaltattoos #ladytattooers",
     timestamp: "2019-05-20T12:51:46.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/Bxr1tKjH1Rb",
@@ -851,7 +923,8 @@ export const artArray = [
       "Tattoo by @foxtattooer #hightidetattoo #dunedin #dunedinfltattooshop #colortattoos #blackandgreyink #traditionaltattoos #ladytattooers",
     timestamp: "2019-05-20T12:51:11.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/Bxr1nGcnFmj",
@@ -862,7 +935,8 @@ export const artArray = [
       "Tattoo by @foxtattooer #hightidetattoo #dunedin #dunedinfltattooshop #colortattoos #traditionaltattoos #ladytattooers",
     timestamp: "2019-05-20T12:50:22.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Fallon"
   },
   {
     url: "https://www.instagram.com/p/BxFlDSUnJnq",
@@ -873,7 +947,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-05T16:14:31.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BxFlAxHnsH7",
@@ -884,7 +959,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-05T16:14:11.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BxFk9qmn9rW",
@@ -895,7 +971,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-05T16:13:45.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BxFk7D9H3fM",
@@ -906,7 +983,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-05-05T16:13:24.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwh9DcvHdpz",
@@ -917,7 +995,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-04-21T20:11:36.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwh8_i6H_Lf",
@@ -928,7 +1007,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-04-21T20:11:04.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwh87jHH86U",
@@ -939,7 +1019,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-04-21T20:10:31.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwh81H1nWhL",
@@ -950,7 +1031,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-04-21T20:09:39.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwh8vkTn8Ey",
@@ -961,7 +1043,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-04-21T20:08:53.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwh8rNnHCbX",
@@ -972,7 +1055,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-04-21T20:08:17.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwh8l-pHE0Q",
@@ -983,7 +1067,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-04-21T20:07:34.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bwht7BrnqXa",
@@ -992,9 +1077,11 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/0f05cab7695c2ecdaf7bf4d53a1980a5/5E0E4DD4/t51.2885-15/e35/56770817_130595498048313_7582018117327099584_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109",
     firstComment:
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
+
     timestamp: "2019-04-21T17:59:23.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bwht3ZUHH4i",
@@ -1005,7 +1092,8 @@ export const artArray = [
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
     timestamp: "2019-04-21T17:58:53.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bwht0BRnsbJ",
@@ -1016,7 +1104,8 @@ export const artArray = [
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
     timestamp: "2019-04-21T17:58:25.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BwhtwWKHAyn",
@@ -1027,7 +1116,8 @@ export const artArray = [
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
     timestamp: "2019-04-21T17:57:55.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BwXNK0qHeRJ",
@@ -1037,7 +1127,8 @@ export const artArray = [
     firstComment: "We have moved to a new shop.",
     timestamp: "2019-04-17T16:00:46.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/BwQYQQPH2Wk",
@@ -1047,7 +1138,8 @@ export const artArray = [
     firstComment: "Tattoo by @russelltattoo727,  thanks! @prettyfloridagirl_",
     timestamp: "2019-04-15T00:22:57.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/BvEPLrJH0Kj",
@@ -1058,7 +1150,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-03-16T10:41:24.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BvEPFctnrvY",
@@ -1069,7 +1162,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-03-16T10:40:33.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BvEO9eincBK",
@@ -1080,7 +1174,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #colortattoos #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-03-16T10:39:28.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BvEO4QpnJET",
@@ -1091,7 +1186,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #colortattoos #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-03-16T10:38:45.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bug4rmIHfrH",
@@ -1100,6 +1196,7 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/df44f4f980470fac4609b563880e351a/5E1896FB/t51.2885-15/e35/51985953_2275677606043009_7692249710639921065_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101",
     firstComment:
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
+    artist: "Neil Powers",
     timestamp: "2019-03-02T17:11:22.000Z",
     locationName: "Dunedin, Florida",
     ownerUsername: "hightidetattoofl"
@@ -1111,7 +1208,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/7f12338ee00bd29e5ec0cd96ef0081ae/5E3D0C8C/t51.2885-15/e35/52147149_158796245115092_4641226407039224479_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=108",
     timestamp: "2019-02-27T20:28:10.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/BuZgrNhHOnY",
@@ -1120,6 +1218,7 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/22a1facd7b11d959609a5e10196d7713/5E116F3C/t51.2885-15/e35/52113374_298287964195539_5789010492646532507_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103",
     firstComment:
       "In progress #neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
+    artist: "Neil Powers",
     timestamp: "2019-02-27T20:26:55.000Z",
     locationName: "Dunedin, Florida",
     ownerUsername: "hightidetattoofl"
@@ -1133,7 +1232,8 @@ export const artArray = [
       "Work in progress #neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
     timestamp: "2019-02-23T17:58:41.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BuO8bheHH61",
@@ -1144,7 +1244,8 @@ export const artArray = [
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
     timestamp: "2019-02-23T17:57:47.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bt6HFSYH05B",
@@ -1154,7 +1255,8 @@ export const artArray = [
     firstComment: "@themikecaltashow",
     timestamp: "2019-02-15T15:46:49.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/Bt5_g7mntKi",
@@ -1164,7 +1266,8 @@ export const artArray = [
     firstComment: "Russell tattooing live right now on @themikecaltashow",
     timestamp: "2019-02-15T14:40:41.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/Bt3X1rBHMrX",
@@ -1172,10 +1275,10 @@ export const artArray = [
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/8c402cc3aa503feb1eeb83acb0a129eb/5DFE8F99/t51.2885-15/e35/51495321_116477166134625_3976562246040833577_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109",
     firstComment:
-      "In progress zodiac chest piece by @nerdneil #zodiacsigns #zodiactattoo #sagittarius #leo #blackandgreytattoo #chesttattoo #hightidetattoofl #hightidetattoo #dunedinfl #dunedintattoo #florida #floridatattooartist #lion #liontattoo",
-    timestamp: "2019-02-14T14:15:31.000Z",
+      "In progress zodiac chest piece by @nerdneil #zodiacsigns #zodiactattoo #sagittarius #leo #blackandgreytattoo #chesttattoo #hightidetattoofl",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bt3WSUInWpB",
@@ -1183,10 +1286,10 @@ export const artArray = [
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/41b38935ab88e520f45fc8f61b1bd3ec/5E3A83F7/t51.2885-15/e35/50707703_2195705217369492_3200181390153018046_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     firstComment:
-      "In progress Poseidon sleeve by @nerdneil #poseidontattoo #poseidon #octopus #octopustattoo #hightidetattoofl #dunedinflorida #dunedintattoo #floridatattooartist #florida #colortattoo",
-    timestamp: "2019-02-14T14:01:57.000Z",
+      "In progress Poseidon sleeve by @nerdneil #poseidontattoo #poseidon #octopus #octopustattoo #hightidetattoofl",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bt3VRunntTd",
@@ -1197,7 +1300,8 @@ export const artArray = [
       "Before and after cover up by @nerdneil #flowertattoo #coveruptattoo #hightidetattoofl #dunedinflorida #dunedintattoo #floridatattooartist @jenifferlawson",
     timestamp: "2019-02-14T13:53:08.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bt3UCoHHISZ",
@@ -1205,10 +1309,10 @@ export const artArray = [
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/d9e01a281b380c42f6befeb01421624e/5DF30F8C/t51.2885-15/e35/50890090_528578184217584_5779316839460959344_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     firstComment:
-      "Portrait of a one eyed dog by @nerdneil #blackandgreytattoo #dogportrait #dogtattoo #hightidetattoofl #dunedintattoo #dunedinflorida #floridatattooartist",
-    timestamp: "2019-02-14T13:42:20.000Z",
+      "Portrait of a one eyed dog by @nerdneil #blackandgreytattoo #dogportrait #dogtattoo #hightidetattoofl",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/Bt3TMXvHtsp",
@@ -1216,10 +1320,10 @@ export const artArray = [
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/2faebe052f4a8f6e0cd4c4f41cee7f2f/5E3C999D/t51.2885-15/e35/50883760_756265951433459_684775238925426183_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111",
     firstComment:
-      "In progress back piece by @nerdneil #blackandgreytattoo #backpiecetattoo #skulltattoo #corporatecorruption #hightidetattoofl #dunedinflorida #dunedintattoo",
-    timestamp: "2019-02-14T13:34:55.000Z",
+      "In progress back piece by @nerdneil #blackandgreytattoo #backpiecetattoo #skulltattoo #corporatecorruption",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BtKIh0fHtIc",
@@ -1228,7 +1332,8 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/4b1d170af1af470f0887400964b09ad6/5E00A29F/t51.2885-15/e35/50570931_2003133316471691_4323297346129952921_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111",
     timestamp: "2019-01-28T00:35:55.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/BtDspMEHqwj",
@@ -1239,7 +1344,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-25T12:36:48.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BtDsiSyHqPN",
@@ -1250,7 +1356,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-25T12:35:52.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BtDsc6CngND",
@@ -1261,7 +1368,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-25T12:35:08.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BsTNY2HHYpW",
@@ -1272,7 +1380,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-06T16:40:09.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BsTNUI5nRzJ",
@@ -1283,7 +1392,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-06T16:39:30.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BsTNMKhH6ah",
@@ -1294,7 +1404,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-06T16:38:25.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BsTNJk4H0Ky",
@@ -1305,7 +1416,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #orange #oranges #floridatattooartist #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-06T16:38:04.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BsTNDWeHmP2",
@@ -1316,7 +1428,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2019-01-06T16:37:13.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BrU9OvaHE9X",
@@ -1327,7 +1440,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-12-13T12:26:03.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BrU9LRKn3bW",
@@ -1338,7 +1452,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-12-13T12:25:34.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BrU9H0pnZNI",
@@ -1349,7 +1464,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-12-13T12:25:06.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BrU9D-jHpck",
@@ -1360,7 +1476,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #colortattoos #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-12-13T12:24:34.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BrU8-wqH9R_",
@@ -1371,7 +1488,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-12-13T12:23:52.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BrU87zKnnDC",
@@ -1382,84 +1500,76 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-12-13T12:23:27.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BqVrzJUHR1j",
     likesCount: 42,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/ba2dcfc8b2145ebd7fad47b34a2cdc69/5DFA72C2/t51.2885-15/e35/44711810_2205303243016931_8391261412767220324_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  @nerdneil",
     timestamp: "2018-11-18T22:41:34.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BqVruZVnGGG",
     likesCount: 34,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/6749a4981fb1a4c314fc5af1972ff083/5E087C89/t51.2885-15/e35/46179357_762435280773365_4300800741879893274_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  @nerdneil",
     timestamp: "2018-11-18T22:40:55.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BqVrmt8nBtZ",
     likesCount: 29,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/0cb0a54d1d43facbcca6b14533d0e792/5E064ADB/t51.2885-15/e35/44588477_1017742541761073_9076506288526526352_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  @nerdneil",
-    timestamp: "2018-11-18T22:39:53.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BqVrfrKHFcV",
     likesCount: 25,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/9a7a87e1bac083c1e939263c32f08f9b/5E03332F/t51.2885-15/e35/45318004_765922450412224_1799246232981707751_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=104",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  @nerdneil",
-    timestamp: "2018-11-18T22:38:55.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BqVrYD9HjcK",
     likesCount: 36,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/195444178e26fd6f43f21ec2c99419c6/5E17B36D/t51.2885-15/e35/42931837_121496515412440_4119187253769435191_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=104",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  @nerdneil",
     timestamp: "2018-11-18T22:37:52.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BqVrPlAn6Ps",
     likesCount: 40,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/3b78e703849dcbfc209454faf8f1f2c3/5E0C2BA1/t51.2885-15/e35/44377322_412115946194365_4398693952191643245_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  @nerdneil",
     timestamp: "2018-11-18T22:36:43.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BqVrFIqnVHy",
     likesCount: 40,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/9b55a705e5beae92fa18b08cbd4bd82c/5E10DB51/t51.2885-15/e35/44267056_453189748541996_5876005593213176100_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=108",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl  @nerdneil",
     timestamp: "2018-11-18T22:35:17.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BqONtp0nw0j",
@@ -1470,7 +1580,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-11-16T01:04:00.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BqONqQfnBn0",
@@ -1481,7 +1592,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #florida #tattoo #kingpintattoosupply",
     timestamp: "2018-11-16T01:03:32.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bp1o1K3nkeI",
@@ -1492,7 +1604,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #flower #tattoo #kingpintattoosupply",
     timestamp: "2018-11-06T11:59:56.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BpMTcNOl6Me",
@@ -1503,7 +1616,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #flower #tattoo #kingpintattoosupply #compasstattoo",
     timestamp: "2018-10-21T10:44:10.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BpMTYEpF9eQ",
@@ -1514,7 +1628,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #flower #tattoo #kingpintattoosupply",
     timestamp: "2018-10-21T10:43:36.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BpEkvbAFLXZ",
@@ -1525,7 +1640,8 @@ export const artArray = [
       "Tattoo by @nerdneil #hand #handtattoo #rose #bluerose #bluerosetattoo #kingpintattoosupply #southstatetattoosupplies #dunedin #dunedinfl",
     timestamp: "2018-10-18T10:41:25.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BpEkerWF3KO",
@@ -1536,7 +1652,8 @@ export const artArray = [
       "Painting by @nerdneil #dunedinflorida #octopus #floridasunset #sunfishpaintworks #skull #neilpowers",
     timestamp: "2018-10-18T10:39:08.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BpEkP67FH95",
@@ -1547,7 +1664,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #lighthouse #seashell #tattoo #kingpintattoosupply #colortattoo",
     timestamp: "2018-10-18T10:37:07.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BpEkIhwF5sq",
@@ -1558,7 +1676,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #flower #tattoo #kingpintattoosupply #bird",
     timestamp: "2018-10-18T10:36:06.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BpEkCdul9rR",
@@ -1569,7 +1688,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #blackandgreytattoo #flower #tattoo #kingpintattoosupply #pineapple",
     timestamp: "2018-10-18T10:35:17.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BooZAnslPAV",
@@ -1580,7 +1700,8 @@ export const artArray = [
       "Tattoo by @nerdneil  We are stoked to share Neil’s eyes are back on track and healing #margarita #margraitaville #wastedawayagain #dunedin #dunedinfl #hightidetattoo #kingpintattoosupply #southstatetattoosupplies #downtowndunedinmerchants #backtothegrind",
     timestamp: "2018-10-07T12:00:10.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BooYSk_FzcC",
@@ -1591,7 +1712,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #sunflowertattoo #flower #tattoo #kingpintattoosupply #colortattoo",
     timestamp: "2018-10-07T11:53:53.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BooYGYNFK9A",
@@ -1602,7 +1724,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida  #tattoo #kingpintattoosupply #blackandgreytattoo",
     timestamp: "2018-10-07T11:52:13.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BooX2gDlVfC",
@@ -1613,7 +1736,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #hibiscustattoo #flower #tattoo #kingpintattoosupply #blackandgreytattoo",
     timestamp: "2018-10-07T11:50:03.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BooXvSRlw7p",
@@ -1624,7 +1748,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #head #lady #tattoo #kingpintattoosupply #swim #swimmer #dancer #formom #colortattoo",
     timestamp: "2018-10-07T11:49:04.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BntJuRaFyTZ",
@@ -1635,7 +1760,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #rosetattoo #blackandwhite #tattoo #florida #floridatattooartist #tattooer #floridatattooartist #artistsoninstagram #kingpintattoosupply",
     timestamp: "2018-09-14T11:51:24.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BnqniZUFWtF",
@@ -1646,7 +1772,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #lineworktattoo #blackandwhite #tattoo #florida #floridatattooartist #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-09-13T12:14:12.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BnV8qZvF5vg",
@@ -1657,7 +1784,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #lineworktattoo #blackandwhite #tattoo #fishtattoo #alligatorgar #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-09-05T11:34:45.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BnR5LKWFDzu",
@@ -1668,7 +1796,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #lineworktattoo #blackandwhite #tattoo #rosetattoo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-09-03T21:47:18.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BnPpRsUl26M",
@@ -1679,29 +1808,26 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #lineworktattoo #blackandwhite #tattoo #daggertattoo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-09-03T00:49:54.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BnPpIrRlWY4",
     likesCount: 58,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/e9b476e4ba165d6bd1160a910b6068d0/5E02E40A/t51.2885-15/e35/39910216_334037580501512_7130232146194595840_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=108",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl #kingpintattoosupply #southstatetattoosupplies #dunedinflorida @nerdneil",
-    timestamp: "2018-09-03T00:48:40.000Z",
     locationName: "Dunedin Highland Middle School",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BnPUGCVlojB",
     likesCount: 80,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/70c59db4680b1ab4531bf28cd3220a1e/5E16F2BE/t51.2885-15/e35/39304316_868607339996029_7613786356384268288_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl #kingpintattoosupply #southstatetattoosupplies #dunedinflorida @nerdneil",
-    timestamp: "2018-09-02T21:44:49.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BnNJWd_F2F_",
@@ -1711,7 +1837,8 @@ export const artArray = [
     firstComment: "#neilpowers @nerdneil",
     timestamp: "2018-09-02T01:32:27.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BnNIio0F69X",
@@ -1722,7 +1849,8 @@ export const artArray = [
       "New shop sign is complete! @nerdneil #hightidetattoosdunedin",
     timestamp: "2018-09-02T01:25:23.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BnNGW3oFxT1",
@@ -1733,7 +1861,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #lineworktattoo #blackandwhite #tattoo #skulltattoo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-09-02T01:06:18.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BnNGQsgln7C",
@@ -1744,7 +1873,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #lineworktattoo #colortattoo #tattoo #bird #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-09-02T01:05:27.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bm5k8H0FkDh",
@@ -1755,7 +1885,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #color #flower #tattoo #flowertattoo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-08-25T11:08:43.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bm5k3eXFJjp",
@@ -1766,7 +1897,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #lineworktattoo #blackandwhite #tattoo #flamingo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-08-25T11:08:05.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bmq0g2LF_UP",
@@ -1777,7 +1909,8 @@ export const artArray = [
       "Dragon ball filler. #dragonball #tattoo #art #dragonballz #filler #kingpintattoosupply#southstatemfg #hightidetattoo #dunedin #florida tattoo by @coryconnellart",
     timestamp: "2018-08-19T17:36:12.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BmmQKVvlfgq",
@@ -1788,7 +1921,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #color #flamingotattoo #tattoo #flamingo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-08-17T23:01:35.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bmj2Xn9F6RA",
@@ -1799,7 +1933,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #color #flower #pineapple #blackandgraytattoos #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-08-17T00:37:44.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bmj2QikF4nT",
@@ -1810,7 +1945,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #color #flower #lighthousetattoo #blackandgrey #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-08-17T00:36:45.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BmS7KnAl2kw",
@@ -1821,7 +1957,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #color #flower #lighthousetattoo #colortattoo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-08-10T10:52:33.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BmQejEUlIXQ",
@@ -1832,7 +1969,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #color #flower #lighthousetattoo #colortattoo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-08-09T12:04:00.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BlsXrJNFFmW",
@@ -1843,7 +1981,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #color #flower #lighthousetattoo #colortattoo #tattooer #floridatattooartist #kingpintattoosupply",
     timestamp: "2018-07-26T11:31:17.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BlbrpI9FRYF",
@@ -1854,7 +1993,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-07-19T23:58:41.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Blac9HXFQL7",
@@ -1865,7 +2005,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-07-19T12:31:06.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BlQAAbRFX0u",
@@ -1876,7 +2017,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #colortattoo #dunedinorange #florida #floridaorange #kingpintattoosupply",
     timestamp: "2018-07-15T11:05:44.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BlPEY6PlxZ3",
@@ -1886,7 +2028,8 @@ export const artArray = [
     firstComment: "Tattoo by @russelltattoo727",
     timestamp: "2018-07-15T02:24:47.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/Bk8n1XpF7wT",
@@ -1897,7 +2040,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-07-07T22:28:56.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bk6Wpg8lNWR",
@@ -1908,7 +2052,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-07-07T01:20:18.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BkYtvT0FW_X",
@@ -1919,7 +2064,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-06-23T23:47:53.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BkSP4tjlee6",
@@ -1930,7 +2076,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #colortattoo #kingpintattoosupply",
     timestamp: "2018-06-21T11:31:35.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BkGzrWbF7m7",
@@ -1941,7 +2088,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-06-17T00:53:26.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BjtCEjolVtx",
@@ -1952,7 +2100,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-06-07T00:38:58.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BjiFqaqlqEf",
@@ -1963,7 +2112,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-06-02T18:38:42.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BjiFlzPFqt0",
@@ -1974,7 +2124,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-06-02T18:38:04.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BjiFiBxFQgH",
@@ -1985,18 +2136,17 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-06-02T18:37:33.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/Bib7do4AVEy",
     likesCount: 52,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/37da25ca9ad9b837bff4b40e2a493ce1/5E39F61F/t51.2885-15/e35/31007052_1998644780353028_5853134474111352832_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=108",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl #kingpintattoosupply",
-    timestamp: "2018-05-06T12:42:44.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BiIVceEFHZo",
@@ -2007,7 +2157,8 @@ export const artArray = [
       "Tattoo by @nerdneil #dunedinflorida #dunedin #tattoo #kingpintattoosupply #florida #floridatattooartist #hightidetattoo",
     timestamp: "2018-04-28T22:04:57.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BiIVLeylCCe",
@@ -2018,7 +2169,8 @@ export const artArray = [
       "Tattoos by @coryconnellart #hightide #hightidetattoo #dunedin #dunedinfl #tattoo #blackandgreytattoo #kingpintattoosupply",
     timestamp: "2018-04-28T22:02:38.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BiIU49qFV0P",
@@ -2029,7 +2181,8 @@ export const artArray = [
       "Tattoo by @coryconnellart #dunedinfl #hightide #hightidetattoo #florida #head #lady #tattoo #kingpintattoosupply #blackandgreytattoo",
     timestamp: "2018-04-28T22:00:07.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BhK35wKFlK5",
@@ -2040,7 +2193,8 @@ export const artArray = [
       "Tattoo by @coryconnellart  #kingpintattoosupply #florida #tattoo #dunedinfl #hightidetattoo #dunedinfltattooshop #tattooer",
     timestamp: "2018-04-05T01:13:08.000Z",
     locationName: "Dunedin, Florida",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BgWMhMzFCHZ",
@@ -2051,7 +2205,8 @@ export const artArray = [
       "Tattoo by @coryconnellart  #kingpintattoosupply #florida #floridaflag #dunedinfl #hightidetattoo #dunedinfltattooshop #blackandgreytattoo",
     timestamp: "2018-03-15T14:13:32.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BfhPuNflmyo",
@@ -2062,7 +2217,8 @@ export const artArray = [
       "Tattoo by Russell, @russelltattoo727 #hightidetattoosdunedin",
     timestamp: "2018-02-23T00:41:47.000Z",
     locationName: null,
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Chris Russell"
   },
   {
     url: "https://www.instagram.com/p/BfewZRwFTHT",
@@ -2073,29 +2229,27 @@ export const artArray = [
       "Tattoo by @coryconnellart  #yarn #tattoo #dunedinflorida #kingpintattoosuppy #hightidetattoo #hightidetattoodunedin",
     timestamp: "2018-02-22T01:29:34.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BfQ9cUqFu4U",
     likesCount: 55,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/c0cdf0f8dbddcd33adb6a5db4a1f0ae7/5DF7A701/t51.2885-15/e35/27878510_184928518776762_1428995620072325120_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=106",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl @nerdneil",
-    timestamp: "2018-02-16T16:54:12.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BfQ9TJslxXp",
     likesCount: 54,
     imageUrl:
       "https://scontent-dfw5-1.cdninstagram.com/vp/ceff856a93f688eaea76e7bce493e81f/5D7ED2EE/t51.2885-15/e15/27878005_455993101470542_8993946630638010368_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=102",
-    firstComment:
-      "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl @nerdneil",
     timestamp: "2018-02-16T16:53:12.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Neil Powers"
   },
   {
     url: "https://www.instagram.com/p/BfQ75ZBFqii",
@@ -2106,7 +2260,8 @@ export const artArray = [
       "#hightidetattoo #Dunedin #dunedinflorida #downtowndunedin #tattoo #fox #foxtattoos #blackandgray #florida #floridatattooshop by @coryconnellart",
     timestamp: "2018-02-16T16:40:42.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BfQ7u4Alj-M",
@@ -2117,7 +2272,8 @@ export const artArray = [
       "#hightide #hightidetattoo #dunedin #dunedinflorida #floridatattooshop #downtowndunedin #tattoo #flower #bird #flowertattoo #birdtattoo  by @coryconnellart",
     timestamp: "2018-02-16T16:39:16.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: "Cory Connell"
   },
   {
     url: "https://www.instagram.com/p/BfQ7XfdFNFv",
@@ -2128,7 +2284,8 @@ export const artArray = [
       "#hightidetattoo #dunedin #dunedinflorida #dunedinfloridatattooshop #downtowndunedin #tattoos #tattoos",
     timestamp: "2018-02-16T16:36:04.000Z",
     locationName: "High Tide Tattoo",
-    ownerUsername: "hightidetattoofl"
+    ownerUsername: "hightidetattoofl",
+    artist: ""
   },
   {
     url: "https://www.instagram.com/p/Bc8f5wtlJDg",
@@ -2137,6 +2294,7 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/b6f0edf92e4ea6ddbfae707ffab48837/5D7E7504/t51.2885-15/e15/25015457_139243170120395_9029679710568710144_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111",
     firstComment:
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
+    artist: "Neil Powers",
     timestamp: "2017-12-21T01:08:36.000Z",
     locationName: "High Tide Tattoo",
     ownerUsername: "hightidetattoofl"
@@ -2148,6 +2306,7 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/5e37624d56b3238afe461393239b9810/5D7E72D0/t51.2885-15/e15/25037343_396930917407488_1447673887381782528_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=100",
     firstComment:
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
+    artist: "Neil Powers",
     timestamp: "2017-12-21T01:08:15.000Z",
     locationName: "High Tide Tattoo",
     ownerUsername: "hightidetattoofl"
@@ -2159,6 +2318,7 @@ export const artArray = [
       "https://scontent-dfw5-1.cdninstagram.com/vp/f0ca2e81f1fadad1d68ad251e8ccaa46/5D7F4A7A/t51.2885-15/e15/25016607_119650622062549_7703929877317025792_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101",
     firstComment:
       "#neilpowerstattoos #neilpowers #neilpowersart #dunedinfl #dunedinfltattoos #hightide #hightidetattoos #hightidetattoosdunedin #florida @hightidetattoofl",
+    artist: "Neil Powers",
     timestamp: "2017-12-21T01:08:01.000Z",
     locationName: "High Tide Tattoo",
     ownerUsername: "hightidetattoofl"
